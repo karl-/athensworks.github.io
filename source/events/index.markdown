@@ -18,7 +18,7 @@ If you want to share this with your friend, checkout out the [Everything Local F
 
 Hack Night
 ----------
-*Third Thursday of every month, starting at 6 pm*
+*Third Thursday of every month, starting at 7 pm*
 
 We host a hack night every month. **What's a hack night, you ask?** Programmers, designers, and creatives of all shapes, sizes, ages, and skill levels come together to tackle a project.  There isn't a plan until we get there.  We provide some food, drinks and an open space.  You bring ideas, computers, and a willingness to ship something real that night.
 
