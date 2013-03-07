@@ -6,19 +6,15 @@ sharing: true
 footer: true
 ---
 
-Athenswork Showcase
+Everything Local
 -------------------
-*March TBD*
+*March 22nd, 6 pm to 8 pm*
 
-Learn about what the members of Athensworks and Athens community are up to.  This is an open event where we ask people to give 3-5 minute presentations about they they or their company is working on. There will be a time for people to mingle with participants throughout the evnt.  All types of projects welcome.
+Learn about what the members of Athensworks and Athens community are up to.  This is an open event where we ask people to give one minute presentations about they or their company is working on. There will be a time for people to mingle with participants throughout the evnt.  All types of projects welcome.
 
-Signups available shortly. 
+If you have a project, [Apply to Present](https://docs.google.com/a/rickychilcott.com/spreadsheet/viewform?formkey=dElRVVg1SmpMSGliOUhNTVQ2cG5FR3c6MQ) at Everything Local. Submit this form by Saturday, March 16 to be considered for one of the sixty-second presentation spots. We’re looking for projects the general public will find interesting or significant. We won’t consider the financial, strategic, or organizational details of your project.
 
-Highlights include:
-
-* Ridge Runner Coffee
-* Athensworks members
-* Innovation Center
+If you want to share this with your friend, checkout out the [Everything Local Facebook Event](https://www.facebook.com/events/455622807841186/)
 
 Hack Night
 ----------
