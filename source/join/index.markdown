@@ -7,17 +7,18 @@ footer: true
 ---
 
 
-We are looking for members who are doing interesting and creative work in Athens County.  As long as you need a desk, a space, or a conference room to get your work done, you're a perfect fit.  Of course, being smart, funny, intersting, and willing to work near others like yourself is strongly encouraged.  If you have questions, stop by, or get in contact with us.  Otherwise, see our rates below or [signup](https://docs.google.com/a/athensworks.com/spreadsheet/viewform?formkey=dGI4WUlFaE9nZ2xNUjZuVXNGMWlVSXc6MQ)!!
+We are looking for members who are doing interesting and creative work in Athens County.  As long as you need a desk, a space, or a conference room to get your work done, you're a perfect fit.  Of course, being smart, funny, intersting, and willing to work near others like yourself is strongly encouraged.  If you have questions, stop by, or get in contact with us.  Otherwise, see our rates below or [signup](https://docs.google.com/a/athensworks.com/spreadsheet/viewform?formkey=dGI4WUlFaE9nZ2xNUjZuVXNGMWlVSXc6MQ)!
 
 Amenities
 --------
-* Desk (near windows or interior spaces)
+* Desk space
 * Wi-fi
-* Coffee, provided by Ridge Runner Coffee
+* B/W Wireless Laser Printer
+* Local Fair- or Direct-trade Coffee, by Ridge Runner Coffee
 * Microwave
 * Refrigerator
-* Conference table
-* Open space for stretching
+* Conference room
+* Open space for movement/stretching
 
 Rate Table
 -----
@@ -32,9 +33,9 @@ Rate Table
     </tr>
     <tr>
       <td><strong>Price</strong></td>
-      <td>$50/month<strong>*</strong></td>
-      <td>$50/month<strong>*</strong></td>
-      <td>$25/month<strong>*</strong></td>
+      <td>$50/month*</td>
+      <td>$50/month*</td>
+      <td>$25/month*</td>
       <td>$10/day</td>
     </tr>
     <tr>
@@ -47,4 +48,4 @@ Rate Table
   </tbody>
 </table>
 
-<em><strong>*</strong>Introductory rate for 3 months. Rate will double.</em>
+**Introductory rate for 3 months. Rate will double thereafter.*
