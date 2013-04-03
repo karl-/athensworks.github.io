@@ -14,5 +14,9 @@ footer: false
 * Google group communications format
 * Website: Meet the Members area!
 * Logo + interior design progress/next steps
-* Visioning discussion
+* Visioning discussion (image below)
+
+<img src="/internal/images/athensworks-vision-markedup.jpg" />
+
+
 
