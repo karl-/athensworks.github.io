@@ -10,13 +10,22 @@ footer: false
 
 * Vote on updated pricing model
 * Do we need open/closed or hours signage?
-* Furniture: Printer stand + replacement for the over-burdened table Sid loaned the space.
 * Google group communications format
 * Website: Meet the Members area!
+* Free Fridays / Invite list planning
 * Logo + interior design progress/next steps
 * Visioning discussion (image below)
 
 <img src="/internal/images/athensworks-vision-markedup.jpg" />
+
+####Next week?
+
+* AT Lab meeting review / ACM preso review
+* April Hack Night Planning
+* Logo/Design update
+* Furniture: Printer stand + replacement for the over-burdened table Sid loaned the space.
+
+
 
 
 
