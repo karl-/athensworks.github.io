@@ -6,4 +6,4 @@ sharing: true
 footer: true
 ---
 
-TBD, generate members!
+<script src="/assets/gravatar.js" type="text/javascript" charset="utf-8"></script>
