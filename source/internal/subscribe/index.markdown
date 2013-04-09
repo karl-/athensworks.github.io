@@ -1,6 +1,6 @@
 ---
 layout: page
-title: “Internal Membership”
+title: Internal Membership
 date: 2013-04-08 14:00
 comments: true
 sharing: false
