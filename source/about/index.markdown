@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "membership"
+title: About Athensworks
 comments: false
 sharing: true
-footer: true
+footer: false
 ---
 
 What is coworking?

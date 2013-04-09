@@ -93,6 +93,6 @@ Rate Table
                    </table>
             </div>
             
-**Businesses and Non-Profits can have multiple individuals use seats they have purchased. <br/>Ex: Business with 4 employees buys 2 seats; all 4 employees can use the workspace with up to two in the space at a time.*
+####**Businesses and Non-Profits can have multiple individuals use seats they have purchased. <br/>Ex: An organization with 5 employees pays for 3 seats; all 5 can use the workspace with up to 3 in the space at a time.*
 
 ###<center>[Join Now](https://docs.google.com/a/athensworks.com/spreadsheet/viewform?formkey=dGI4WUlFaE9nZ2xNUjZuVXNGMWlVSXc6MQ)</center>
