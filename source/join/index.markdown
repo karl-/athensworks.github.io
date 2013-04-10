@@ -12,7 +12,7 @@ Amenities
 * Desk space
 * Wi-fi
 * B/W Wireless Laser Printer
-* Local Fair- or Direct-trade Coffee, by Ridge Runner Coffee
+* Local Fair- or Direct-trade Coffee, by [Ridge Runner Coffee](http://www.facebook.com/ridgerunner.coffee)
 * Microwave
 * Refrigerator
 * Conference room
