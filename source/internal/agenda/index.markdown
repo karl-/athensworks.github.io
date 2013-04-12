@@ -6,24 +6,18 @@ comments: true
 sharing: false
 footer: true
 ---
-### Meeting Agenda 4/10 or 4/12
+### Meeting Agenda 4/17
 
-* AT Lab meeting review / ACM preso review
-* April Hack Night Planning
-* Logo + interior design progress/next steps
-* Open/Closed signage options
-* Furniture: Printer stand + replacement for the over-burdened table Sid loaned the space.
-* Visioning discussion (image below)
+* Hack Night
+* Logo & Interior Design
+* Visioning discussion (image below) — We will all contribute and edit before next week so that we can simply approve something rather than heavily discuss at that time.
 
 <img src="/internal/images/athensworks-vision-markedup.jpg" />
 
-#####Next Week:
-
-* nuthin’ yet…
 
 #####Previous Meeting notes:
-* [4/5/13 notes](notes-4-5-13.html)
-
+* [4.10.13 notes](agenda/notes-4-10-13.html)
+* [4.5.13 notes](agenda/notes-4-5-13.html)
 
 
 
