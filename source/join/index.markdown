@@ -5,46 +5,94 @@ comments: false
 sharing: true
 footer: true
 ---
-
-
-We are looking for members who are doing interesting and creative work in Athens County.  As long as you need a desk, a space, or a conference room to get your work done, you're a perfect fit.  Of course, being smart, funny, intersting, and willing to work near others like yourself is strongly encouraged.  If you have questions, stop by, or get in contact with us.  Otherwise, see our rates below or [signup](https://docs.google.com/a/athensworks.com/spreadsheet/viewform?formkey=dGI4WUlFaE9nZ2xNUjZuVXNGMWlVSXc6MQ)!!
+We are building a community of people who are doing  interesting and creative work in the Athens area.  As long as you need a desk, a space, or a conference room to get your work done, we've got a space for you.  If you have questions, stop by, or get in contact with us. 
 
 Amenities
 --------
-* Desk (near windows or interior spaces)
+* Desk space
 * Wi-fi
-* Coffee, provided by Ridge Runner Coffee
+* B/W Wireless Laser Printer
+* Local Fair- or Direct-trade Coffee, by [Ridge Runner Coffee](http://www.facebook.com/ridgerunner.coffee)
 * Microwave
 * Refrigerator
-* Conference table
-* Open space for stretching
+* Conference room
+* Open space for movement/stretching
 
+###<center>[Join Now](https://docs.google.com/a/athensworks.com/spreadsheet/viewform?formkey=dGI4WUlFaE9nZ2xNUjZuVXNGMWlVSXc6MQ)</center>
 Rate Table
 -----
-<table id="rate_table">
-  <tbody>
-    <tr>
-      <th style="width:100px;"></td>
-      <th style="width:86px;"><strong>Individual</strong></td>
-      <th style="width:120px;"><strong>Business</strong></td>
-      <th style="width:120px;"><strong>Non-profit</strong></td>
-      <th style="width:120px;"><strong>Non-members</strong></td>
-    </tr>
-    <tr>
-      <td><strong>Price</strong></td>
-      <td>$50/month<strong>*</strong></td>
-      <td>$50/month<strong>*</strong></td>
-      <td>$25/month<strong>*</strong></td>
-      <td>$10/day</td>
-    </tr>
-    <tr>
-      <td style="height: 95px;"><strong>Conference Room</strong></td>
-      <td>First come, first served</td>
-      <td>First come, first served</td>
-      <td>Free/2 hrs<br/>$30/half day<br/>$50/full day</td>
-      <td>$15/hour<br/>$50/half day<br/>$80/full day</td>
-    </tr>
-  </tbody>
-</table>
 
-<em><strong>*</strong>Introductory rate for 3 months. Rate will double.</em>
+<div class="rate_table" >
+                <table>
+                    <tr>
+                    	<td>&nbsp;</td>
+                        <td>
+                            Flex<br/>
+                            (8 days/month)
+                        </td>
+                        <td>
+                        	Full
+                        </td>
+                        <td >
+                            Not For Profit*
+                        </td>
+                        <td>
+                            Business*
+                        </td>
+                        <td>
+                        	Non-Member
+                        </td>
+                    </tr>
+                    <tr>
+                        <td >
+                           Price
+                        </td>
+                        <td>
+                            	$65/month
+                        </td>
+                        <td>
+                        	$100/month<br/>
+                        	<strong>50% off for 3 months</strong>
+                        </td>
+                        <td>
+                        	$50/month per seat
+                        </td>
+                        <td>
+                           $100/month per seat
+                        </td>
+                        <td>
+                        	$10/day
+                        </td>
+                    </tr>
+                    <tr>
+                        <td >
+                            Conference Room
+                        </td>
+                        <td>
+                            First Come, First Served (FCFS)
+                        </td>
+                        <td>
+                            FCFS
+                        </td>
+                        <td>
+                        	FCFS
+                        </td>
+                        <td>
+                        	FCFS
+                        </td>
+                        <td>
+                        	$15/hour<br/>
+							$50/half day<br/>
+							$80/full day<br/>
+							<strong>Non-Profit:</strong><br/>
+                        	2 hours free!<br/>
+                        	$30/half day<br/>
+                        	$50/full day<br/>
+						</td>
+                    </tr>
+                   </table>
+            </div>
+            
+####**Businesses and Non-Profits can have multiple individuals use seats they have purchased. <br/>Ex: An organization with 5 employees pays for 3 seats; all 5 can use the workspace with up to 3 in the space at a time.*
+
+###<center>[Join Now](https://docs.google.com/a/athensworks.com/spreadsheet/viewform?formkey=dGI4WUlFaE9nZ2xNUjZuVXNGMWlVSXc6MQ)</center>
