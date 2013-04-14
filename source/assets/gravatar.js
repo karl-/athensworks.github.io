@@ -5,11 +5,11 @@ jQuery.getJSON(gistURL, function(data) {
   var json_content = data.files["athensworks_members.json"].content;
   members = JSON.parse(json_content);
   
-  for (var i = 0; i < members.length; i++) {
-    var username = members[i];
+  for (var count = 0; count < members.length; count++) {
+    var username = members[count];
     var gravatarURL = "https://secure.gravatar.com/" + username + ".json?callback=embedMember";
-    console.log(gravatarURL);
     document.write("<script type='text/javascript' src='" + gravatarURL + "'></script>");
+    console.log(gravatarURL);
   }
 });
 
