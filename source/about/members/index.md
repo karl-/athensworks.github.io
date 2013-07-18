@@ -4,6 +4,10 @@ title: "Members"
 comments: false
 sharing: true
 footer: true
+member_list: true
 ---
 
-<script src="/assets/gravatar.js" type="text/javascript" charset="utf-8"></script>
+<!-- Empty members div -->
+<div id="members">
+  
+</div>

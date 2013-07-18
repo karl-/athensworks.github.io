@@ -1,5 +1,5 @@
-<!-- Slideshow -->
 {% if page.basic_slider %}
+<!-- Slideshow -->
 <link rel="stylesheet" href="/assets/basic-jquery-slider/css/bjqs.css" type="text/css" charset="utf-8">
 <script type="text/javascript" charset="utf-8" src="/assets/basic-jquery-slider/js/bjqs-1.3.min.js"></script>
 
@@ -39,4 +39,30 @@
   	background: rgba(255,255,255,0.5);
   }
 </style>
-{% endif %}{
+{% endif %}
+
+{% if page.member_list %}
+<!-- Underscore library -->
+<script src='http://cdnjs.cloudflare.com/ajax/libs/underscore.js/1.4.4/underscore-min.js'></script>
+
+<!-- Member template -->
+<script type='test/template' id='member-template'>
+  <div class='member'>
+    <h3>
+      <a href="<%= profileURL %>"><%= name %></a>
+    </h3>
+    <img src='<%= thumbnailURL %>'/>
+    <p class='about'><%= aboutMe %></p>
+  </div>
+</script>
+
+<script src="/assets/gravatar.js" type="text/javascript" charset="utf-8"></script>
+
+<!-- ALL of the members -->
+<script type="text/javascript" src="http://en.gravatar.com/benlachman.json?callback=saveMembers"></script>
+<script type="text/javascript" src="http://en.gravatar.com/joebell59.json?callback=saveMembers"></script>
+<script type="text/javascript" src="http://en.gravatar.com/mikeblohm.json?callback=saveMembers"></script>
+<script type="text/javascript" src="http://en.gravatar.com/patricktgordon.json?callback=saveMembers"></script>
+<script type="text/javascript" src="http://en.gravatar.com/rickychilcott.json?callback=saveMembers"></script>
+<script type="text/javascript" src="http://en.gravatar.com/sidmcfarland.json?callback=saveMembers"></script>
+{% endif %}
