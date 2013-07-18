@@ -6,17 +6,6 @@ sharing: true
 footer: true
 ---
 
-Everything Local
--------------------
-*Friday, March 22 from 6 to 8 PM*
-
-We are hosting a public showcase of projects by local artists, entrepreneurs, crafters, students, researchers, and DIY enthusiasts. We'd like to invite you to attend a night of brief project presentations, mingling, and hors d'oeuvres at Central Venue, right behind Athensworks.
-
-Are you working on a project that you would like to present? [Submit Your Project](https://docs.google.com/a/rickychilcott.com/spreadsheet/viewform?formkey=dElRVVg1SmpMSGliOUhNTVQ2cG5FR3c6MQ)!
-
-Checkout out the [Facebook Event](https://www.facebook.com/events/455622807841186/) for updates and more details.
-
-Questions? Contact [michael@athensworks.com](mailto:michael@athensworks.com)
 
 Hack Night
 ----------
@@ -27,4 +16,17 @@ We host a hack night every month. **What's a hack night, you ask?** Programmers,
 We’re currently looking for a sponsor for this event.  If you’d be interested in sponsoring it, please contact us at the address below.
 
 Questions? Contact [ricky@athensworks.com](mailto:ricky@athensworks.com)
+
+Everything Local
+-------------------
+*Next Date TBD*
+
+We are hosting a public showcase of projects by local artists, entrepreneurs, crafters, students, researchers, and DIY enthusiasts. We'd like to invite you to attend a night of brief project presentations, mingling, and hors d'oeuvres at Central Venue, right behind Athensworks.
+
+Are you working on a project that you would like to present? [Submit Your Project](https://docs.google.com/a/rickychilcott.com/spreadsheet/viewform?formkey=dElRVVg1SmpMSGliOUhNTVQ2cG5FR3c6MQ)!
+
+Checkout out the [Facebook Event](https://www.facebook.com/events/455622807841186/) for updates and more details.
+
+Questions? Contact [michael@athensworks.com](mailto:michael@athensworks.com)
+
 
