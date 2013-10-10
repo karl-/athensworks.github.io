@@ -3,3 +3,39 @@
   margin-left: auto ;
   margin-right: auto ;
 }
+
+#logo_headline {
+  float: left;
+}
+
+#title_headline {
+  float: left;
+  width: 75%;
+  text-align: left;
+  padding: 0px 0px 0px 20px;
+}
+
+#subtitle_headline {
+  float: left;
+  width: 75%;
+  text-align: left;
+  padding: 0px 0px 0px 20px;
+}
+
+@media screen and (min-width: 0px) and (max-width: 500px) {
+  #title_headline { display: none; }  /* hide it on small screens */
+  #subtitle_headline { display: none; }  /* hide it on small screens */
+  #logo {
+    height: 250px;
+    width: 250px;
+  }
+}
+
+@media screen and (min-width: 500px){
+  #title_headline { display: block; }  /* hide it on small screens */
+  #subtitle_headline { display: block; }  /* hide it on small screens */
+  #logo {
+    height: 150px;
+    width: 150px;
+  }
+}
