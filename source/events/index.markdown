@@ -7,6 +7,14 @@ footer: true
 published: true
 ---
 
+Free Friday
+-----------
+*Next Free Friday is October 18th*
+
+Come to Athensworks for Friday and experience co-working with some of the friendliest, artistic, and tech savvy people in Athens. You'll get a large desk and chair, access to high-speed wi-fi, air conditioning, a whiteboard, a printer, a refrigerator, and free snacks and beverages. This is a chance to break the monotony of your usual work space and enjoy a refreshing change of environment to spark your creativity and boost your productivity. 
+
+You can opt to work in our large, quite work space, collaborate in our cozy social work space with light background music, or use the conference room for private meetings. So grab your laptop, invite a friend to come with you, and see what co-working is all about!
+
 Hack Night
 ----------
 ~~Third Thursday of every month, starting at 7 pm~~
