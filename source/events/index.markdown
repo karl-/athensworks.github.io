@@ -20,12 +20,8 @@ Questions? Contact [ricky@athensworks.com](mailto:ricky@athensworks.com)
 
 Everything Local
 -------------------
-*Next Date TBD*
+*November 22nd*
 
 We are hosting a public showcase of projects by local artists, entrepreneurs, crafters, students, researchers, and DIY enthusiasts. We'd like to invite you to attend a night of brief project presentations, mingling, and hors d'oeuvres at Central Venue, right behind Athensworks.
 
-Are you working on a project that you would like to present? [Submit Your Project](https://docs.google.com/a/rickychilcott.com/spreadsheet/viewform?formkey=dElRVVg1SmpMSGliOUhNTVQ2cG5FR3c6MQ)!
-
-Checkout out the [Facebook Event](https://www.facebook.com/events/455622807841186/) for updates and more details.
-
-Questions? Contact [michael@athensworks.com](mailto:michael@athensworks.com)
+Are you working on a project that you would like to present? Contact [michael@athensworks.com](mailto:michael@athensworks.com)
