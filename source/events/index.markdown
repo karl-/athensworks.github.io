@@ -11,14 +11,13 @@ Free Friday
 -----------
 *Next Free Friday is October 18th*
 
-Come to Athensworks for Friday and experience co-working with some of the friendliest, artistic, and tech savvy people in Athens. You'll get a large desk and chair, access to high-speed wi-fi, air conditioning, a whiteboard, a printer, a refrigerator, and free snacks and beverages. This is a chance to break the monotony of your usual work space and enjoy a refreshing change of environment to spark your creativity and boost your productivity. 
+Come to Athensworks for Friday and experience co-working with some of the friendliest, artistic, and tech savvy people in Athens. You'll get a large desk and chair, access to high-speed wi-fi, air conditioning, a whiteboard, a printer, a refrigerator, and free snacks and beverages. This is a chance to break the monotony of your usual work space and enjoy a refreshing change of environment to spark your creativity and boost your productivity.
 
 You can opt to work in our large, quite work space, collaborate in our cozy social work space with light background music, or use the conference room for private meetings. So grab your laptop, invite a friend to come with you, and see what co-working is all about!
 
 Hack Night
 ----------
-~~Third Thursday of every month, starting at 7 pm~~
-For the month of October, we're having a special Hack Night at Create Space, on Ohio University's campus.  This event will be on October 24th at 7 pm. See the [facebook event](https://www.facebook.com/events/578684955527258/?ref=22) for more details.
+Third Thursday of every month, starting at 7 pm
 
 We host a hack night every month. **What's a hack night, you ask?** Programmers, designers, and creatives of all shapes, sizes, ages, and skill levels come together to tackle a project.  There isn't a plan until we get there.  We provide some food, drinks and an open space.  You bring ideas, computers, and a willingness to ship something real that night.
 
@@ -28,7 +27,7 @@ Questions? Contact [ricky@athensworks.com](mailto:ricky@athensworks.com)
 
 Everything Local
 -------------------
-*November 22nd*
+*Next Date TBD*
 
 We are hosting a public showcase of projects by local artists, entrepreneurs, crafters, students, researchers, and DIY enthusiasts. We'd like to invite you to attend a night of brief project presentations, mingling, and hors d'oeuvres at Central Venue, right behind Athensworks.
 
