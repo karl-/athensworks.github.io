@@ -48,11 +48,12 @@ Rate Table
                            Price
                         </td>
                         <td>
-                            	$65/month
-                        </td>
+                            $65/month<br/>
+                        	<strong>Semester Special: Buy 3 months, get a 4th free!</strong>
+                       </td>
                         <td>
                         	$100/month<br/>
-                        	<strong>50% off for 3 months</strong>
+                        	<strong>Semester Special: Buy 3 months, get a 4th free!</strong>
                         </td>
                         <td>
                         	$50/month per seat
@@ -93,6 +94,6 @@ Rate Table
                    </table>
             </div>
             
-####**Businesses and Non-Profits can have multiple individuals use seats they have purchased. <br/>Ex: An organization with 5 employees pays for 3 seats; all 5 can use the workspace with up to 3 in the space at a time.*
+####**Businesses and Non-Profits can have multiple individuals use seats they have purchased. <br/>Ex: An organization with 5 employees pays for 3 seats; all 5 can use the workspace as needed with up to 3 working out of the space at a given time (meetings can include everyone).*
 
 ###<center>[Join Now](https://docs.google.com/a/athensworks.com/spreadsheet/viewform?formkey=dGI4WUlFaE9nZ2xNUjZuVXNGMWlVSXc6MQ)</center>
