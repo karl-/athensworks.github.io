@@ -8,9 +8,7 @@ footer: true
 ---
 *Select a membership level below. Your previous membership has already been canceled.*
 
-###Day Pass ($10 one-time purchase)
-
-
+####Day Pass ($10 one-time purchase)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -23,9 +21,9 @@ footer: true
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-###Flex Monthly Membership with No Intro ($65/mo)
 
 
+####Flex Monthly Membership with No Intro ($65/mo)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -38,9 +36,9 @@ footer: true
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-###Flex Monthly Membership with 4-month Intro ($65/mo 4-month introductory period)
 
 
+####Flex Monthly Membership with 4-month Intro ($65/mo 4-month introductory period)
 
 Your account will be charged $195 now (for 4 months of membership), and will then continue at $65/month flex membership
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -54,9 +52,9 @@ Your account will be charged $195 now (for 4 months of membership), and will the
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-###Full Monthly Membership with No Intro ($100/mo
 
 
+####Full Monthly Membership with No Intro ($100/mo
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -69,9 +67,9 @@ Your account will be charged $195 now (for 4 months of membership), and will the
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-###Full Monthly Membership with 4-month Intro ($100/mo 4-month introductory period)
 
 
+####Full Monthly Membership with 4-month Intro ($100/mo 4-month introductory period)
 
 Your account will be charged $300 now (for 4 months of membership), and will then continue at 100/month full member
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -85,7 +83,9 @@ Your account will be charged $300 now (for 4 months of membership), and will the
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-###Fixed Monthly Membership with No Intro ($130/mo)
+
+
+####Fixed Monthly Membership with No Intro ($130/mo)
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">

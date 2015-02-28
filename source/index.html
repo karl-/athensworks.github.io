@@ -1,41 +1,37 @@
 ---
-layout: home
-title: "Home"
+layout: page
+title: "Athensworks"
+date: 2013-08-16 23:48
 comments: false
-sharing: false
-footer: false
-basic_slider: true
+show_title: false
+sidebar: false
+hero_unit: true
+is_homepage: true
 ---
 
-<div id="banner-fade">
-  
-  <ul class="bjqs">
-    <li><img src="/images/slideshow/slide1.jpeg" title="29 E Carpenter"></li>
-    <li><img src="/images/slideshow/slide2.jpeg" title="A Monthly Hacknight"></li>
-    <li><img src="/images/slideshow/slide3.jpeg" title="Work & Bricks"></li>
-  </ul>
-
+<div class="row top-xs">
+    <div class="col-xs-12 col-lg-4">
+        <div class="row usp">
+            <div class="col-xs-12 col-sm-4 col-lg-12">
+                <span class="usp__icon"><i class="fa fa-building-o"></i></span>
+            </div>
+            <div class="col-xs-12 col-sm-8 col-lg-12">{% include custom/homepage/grid_item_left.html %}</div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-lg-4">
+        <div class="row usp">
+            <div class="col-xs-12 col-sm-4 col-lg-12">
+                <span class="usp__icon"><i class="fa fa-laptop"></i></span>
+            </div>
+            <div class="col-xs-12 col-sm-8 col-lg-12">{% include custom/homepage/grid_item_middle.html %}</div>
+        </div>
+    </div>
+    <div class="col-xs-12 col-lg-4">
+        <div class="row usp">
+            <div class="col-xs-12 col-sm-4 col-lg-12">
+                <span class="usp__icon"><i class="fa fa-coffee"></i></span>
+            </div>
+            <div class="col-xs-12 col-sm-8 col-lg-12">{% include custom/homepage/grid_item_right.html %}</div>
+        </div>
+    </div>
 </div>
-
-<script class="secret-source">
-  jQuery(document).ready(function($) {
-
-    $('#banner-fade').bjqs({
-      height      : 450,
-      width       : 800,
-      responsive  : true,
-      hoverpause : true
-    });
-
-  });
-</script>
-
-<!-- text -->
-<h2>Where are we?</h2>
-We’re located in uptown Athens, Ohio. Just turn right at the end of Court Street, and you’ll find us not a block later at 29 East Carpenter Street. Look for the glass storefront.
-
-<h2>Who works here?</h2>
-Much of our interest is currently from folks in technology, media, and academia, but we are glad to have as much diversity as we can find seats for. <a href="/about/members">Meet the members</a>.
-
-<h2>Who is welcome?</h2>
-If you can do your work at a desk or in an open space, we welcome you to check us out. Part of the fun of a coworking space is working with people who do something radically different from you!

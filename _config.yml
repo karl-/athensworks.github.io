@@ -1,12 +1,13 @@
 # ----------------------- #
 #      Main Configs       #
 # ----------------------- #
-url: http://AthensWorks.github.com
+
+url: http://www.athensworks.com
 title: Athensworks
-subtitle: A coworking community in Athens, OH
+subtitle: "A coworking community in Athens, OH"
 logo: /assets/athensworks_logo.gif
 author: Athensworks
-simple_search: http://google.com/search
+simple_search: https://www.google.com/search
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
@@ -43,7 +44,7 @@ highlighter: pygments # default python pygments have been replaced by pygments.r
 
 paginate: 10          # Posts per page on the blog index
 paginate_path: "posts/:num"  # Directory base for pagination URLs eg. /posts/2/
-recent_posts: 5       # Posts in the sidebar Recent Posts section
+recent_posts: 0       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
 excerpt_separator: "<!--more-->"
 
@@ -51,7 +52,7 @@ titlecase: true       # Converts page and post titles to titlecase
 
 # list each of the sidebar modules you want to include, in the order you want them to appear.
 # To add custom asides, create files in /source/_includes/custom/asides/ and add them to the list like 'custom/asides/custom_aside_name.html'
-default_asides: [asides/facebook.html, asides/recent_posts.html, asides/github.html, asides/delicious.html, asides/pinboard.html, asides/googleplus.html]
+default_asides: [asides/github.html, asides/googleplus.html]
 
 # Each layout uses the default asides, but they can have their own asides instead. Simply uncomment the lines below
 # and add an array with the asides you want to use.
@@ -64,21 +65,17 @@ default_asides: [asides/facebook.html, asides/recent_posts.html, asides/github.h
 # ----------------------- #
 
 # Github repositories
-github_user: Athensworks
-github_repo_count: 5
-github_show_profile_link: false
-github_skip_forks: true
+github_user: athensworks
+github_repo_count: 3
+github_show_profile_link: true
+github_skip_forks: false
 
-# # Twitter
-# twitter_user: Athensworks
-# twitter_tweet_count: 4
-# twitter_show_replies: false
-# twitter_follow_button: true
-# twitter_show_follower_count: false
-# twitter_tweet_button: true
+# Twitter
+twitter_user: athenwsworks
+twitter_tweet_button: true
 
 # Google +1
-google_plus_one: true
+google_plus_one: false
 google_plus_one_size: medium
 
 # Google Plus Profile
@@ -107,5 +104,44 @@ facebook_sidbar_embed: true
 facebook_sidbar_page_url: http://www.facebook.com/Athensworks
 facebook_sidebar_width: 250
 facebook_sidebar_show_faces: true
-facebook_sidebar_show_stream: false #Hide stream for now... re-enable later.
+facebook_sidebar_show_stream: false
 facebook_sidebar_show_header: true
+
+
+# Oscailte Theme Settings
+gravatar: false
+oscailte:
+    hire: # The "Available for Hire" widget
+        visible:
+            footer: false
+            sidebar: false
+        footer-cols: 6 # Number of columns available for the footer component, max 12
+        available: false # Whether or not you're available for hire
+        vibrant: false # Makes the widget much more noticeable
+        message: "Available for new opportunities"
+    social:
+        visible: true
+        title: # Defaults to "Follow me!" if not present
+        adn: # App.net
+        coinbase:
+        dribbble:
+        facebook:
+            user: Athensworks
+            app_id: # For enabling Open Graph metadata
+        github:
+            user: Athensworks
+            show_profile_link: true
+        googleplus:
+        hackernews:
+        keybase:
+        linkedin:
+        pinterest:
+        reddit:
+        stackoverflow:
+        twitter:
+            user: athensworks
+            widget: # Shows the Recent Tweets widget in sidebar
+                is_shown:
+                show_profile_link:
+                widget_id:
+        youtube:

@@ -2,7 +2,7 @@
 layout: page
 title: "Weekly Meeting Agenda"
 date: 2013-04-03 15:41
-comments: true
+comments: false
 sharing: false
 footer: true
 ---
@@ -12,8 +12,7 @@ footer: true
 * Logo & Interior Design
 * Visioning discussion (image below) — We will all contribute and edit before next week so that we can simply approve something rather than heavily discuss at that time.
 
-<img src="/internal/images/athensworks-vision-markedup.jpg" />
-
+![Vision](/internal/images/athensworks-vision-markedup.jpg)
 
 #####Previous Meeting notes:
 * [4.10.13 notes](agenda/notes-4-10-13.html)

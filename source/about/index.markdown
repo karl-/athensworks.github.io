@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About Athensworks
+title: "About"
+date: 2015-02-26 22:09
 comments: false
 sharing: true
-footer: false
+footer: true
 ---
 
 What is coworking?

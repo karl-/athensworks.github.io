@@ -9,10 +9,10 @@ ssh_port       = "22"
 document_root  = "~/website.com/"
 rsync_delete   = false
 rsync_args     = ""  # Any extra arguments to pass to rsync
-deploy_default = "push"
+deploy_default = "rsync"
 
 # This will be configured for you when you run config_deploy
-deploy_branch  = "master"
+deploy_branch  = "gh-pages"
 
 ## -- Misc Configs -- ##
 
@@ -322,7 +322,7 @@ task :setup_github_pages, :repo do |t, args|
     user = repo_url.match(/github\.com\/([^\/]+)/)[1]
   end
   branch = (repo_url.match(/\/[\w-]+\.github\.(?:io|com)/).nil?) ? 'gh-pages' : 'master'
-  project = (branch == 'gh-pages') ? repo_url.match(/\/([^\.]+)/)[1] : ''
+  project = (branch == 'gh-pages') ? repo_url.match(/([^\/]+?)(\.git|$)/i)[1] : ''
   unless (`git remote -v` =~ /origin.+?octopress(?:\.git)?/).nil?
     # If octopress is still the origin remote (from cloning) rename it to octopress
     system "git remote rename origin octopress"
