@@ -7,7 +7,12 @@ sharing: true
 footer: true
 ---
 
-Starting March 16th, Athensworks will be hosting classes on HTML/CSS and Python.  For just $10, you can learn HTML.  If you're interested, please register below.
+Starting March 16th, Athensworks will be hosting classes on HTML/CSS and Python.  For just $10, you can learn web technologies or a powerful, yet easy, scripting language.  Classes start on March 16th and will go for 5 weeks, being held every Monday and Wednesday. If you're interested, please register below.
+
+March 16th - April 22nd Mondays and Wednesdays
+
+* HTML+CSS 6pm
+* Python 7pm
 
 Want to help us spread the word? [Share our flier](/assets/marketing/CodeSchool2015.pdf)
 
