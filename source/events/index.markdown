@@ -15,9 +15,9 @@ Come to Athensworks for Friday and experience co-working with some of the friend
 
 You can opt to work in our large, quite work space, collaborate in our cozy social work space with light background music, or use the conference room for private meetings. So grab your laptop, invite a friend to come with you, and see what co-working is all about! -->
 
-Code School 2015
+Ohio Brew Week
 -----------------
-We're doing some beginner coding classes up at Athensworks this spring in association with OU Entrepreneurs and Codecademy. We're offering sessions on Python and HMTL+CSS. [Learn more details](/code-school)
+We built a Brew week app! [Learn more details](/brewweek)
 
 Hack Night
 ----------
