@@ -9,17 +9,17 @@ footer: true
 
 
 
-Athensworks, in partnernship with Ohio Brew Week, built an iOS application for Ohio Brew Week. This was done by a group of volunteers and members at Athensworks in a monthy event we call Hack Night.  If you're interested in Hack Night, checkout our [Facebook Page](https://www.facebook.com/Athensworks?_rdr=p) each month. If you're interested in a membership, we'd love to have you join Athensworks!
+Athensworks, in partnership with Ohio Brew Week, built an iOS application for Ohio Brew Week. This was done by a group of volunteers and members at Athensworks in a monthly event we call Hack Night.  If you're interested in Hack Night, checkout our [Facebook Page](https://www.facebook.com/Athensworks?_rdr=p) each month. If you're interested in a membership, we'd love to have you join Athensworks!
 
 <center>
   <p>
-    <a href="http://www.apple.com">
+    <a href="https://itunes.apple.com/us/app/id1014314995">
       <img src="/assets/brewweek_app_logo.png" id="brew-week-logo" alt="Brew Week App Logo" />
     </a>
   </p>
 
   <p>
-    <a href="http://www.apple.com">
+    <a href="https://itunes.apple.com/us/app/id1014314995">
       <img src="/assets/app_store.svg" alt="Download on the AppStore" />
     </a>
   </p>
