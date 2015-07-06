@@ -1,3 +1,17 @@
+.hero {
+  background-position: 0 33%;
+}
+
+.hero__credit {
+  font-size: 0.7rem;
+  font-weight: normal;
+  opacity: 0.5;
+}
+
+.hero__credit p {
+  margin-bottom: 16px;
+}
+
 .hero__gravatar {
   border-radius: none;
   border: none;
