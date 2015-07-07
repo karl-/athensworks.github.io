@@ -13,4 +13,3 @@ vendor
 node_modules
 .rbenv-version
 .rvmrc
-Gemfile.lock
