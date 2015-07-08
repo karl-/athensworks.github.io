@@ -7,6 +7,7 @@ sharing: true
 footer: true
 redirect_from:
   - /BrewWeek/
+  - /brewweek/
 ---
 
 
