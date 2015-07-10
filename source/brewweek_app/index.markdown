@@ -6,8 +6,8 @@ comments: false
 sharing: true
 footer: true
 redirect_from:
-  - /BrewWeek
-  - /brewweek
+  - /BrewWeek/
+  - /brewweek/
 ---
 
 Athensworks, in partnership with [Ohio Brew Week](http://OhioBrewWeek.com), built an app for Ohio Brew Week 2015. All work was done by a group of volunteers and members of Athensworks in the context of a monthly event we call Hack Night. If you’re interested in Hack Night, checkout our [Facebook Page](https://www.facebook.com/Athensworks). If you’re interested in a membership, we’d love to have you join Athensworks, just give us a shout!
