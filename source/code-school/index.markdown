@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Code School 2016”
+title: "Code School 2016"
 date: 2016-01-19 15:00
 comments: false
 sharing: true
