@@ -1,5 +1,5 @@
 source "https://rubygems.org"
 
-gem 'jekyll', '~> 2.0'
+gem 'jekyll', '~> 3.0'
 gem 'jekyll-redirect-from'
 gem 'github-pages'
