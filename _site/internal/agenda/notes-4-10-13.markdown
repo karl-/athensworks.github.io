@@ -1,18 +1,0 @@
---- 
-layout: page 
-title: "Meeting Notes" 
-date: 2013-04-10 13:29 
-comments: false 
-sharing: false 
-footer: true 
----
-###Athensworks Meeting Notes 04.10.13
-* ACM Meeting – Michael and Ricky were present. The group seemed interested in Hack Night some, but less so the space overall. Some students may be interested in working here over the summer on accelerator projects.  
-* @LAB – Michael talked with Nathan Berger and had a tour of their facilities. Nathan seems interested in seeing some collaboration between @Lab and Athensworks in terms of helping get artists connected with tech folks. They have loads of equipment that they would likely lend to us if need be as well. Any ideas with how to pursue this collaboration are welcome. We could at least put up Hack Night posters. **Michael** will create and share a Google doc with Nathan to hold the info as to what items may be shared/lent between Athensworks & the @Lab. 
-* Hack Night – **Joe** is going to hold down the fort in terms of getting things open and running for this April Hack Night. Several folks are going to be at the Jim Gaffigan show and will likely come by afterward. **Ben** will shoot out an email thread to propose some ideas to “seed the field”, as it were, to get the ball rolling that night. **Ricky** will create a facebook event. **Joe** will order pizza.
-* Open/Close Sign – **Michael** will work on it.
-* Gravatar – **Jake, Patrick, & Missy** still need to setup and fill out Gravatar profiles for the website. At least a photo and a description would be helpful for getting things rolling. Then email username to the members list.
-* Printer Stand & Food Area – We’re looking for something with a bit of character, the cheaper the better. Everybody be on the lookout, snap a photo and send it to the group. For the food area, something with cabinets or drawers would be really helpful. **Ben** will send out dimensions on the printer.
-* Logo & Interior Design – **Joe** will amalgamate the vision statements for the purposes of Logo & Interior Design criteria. He’ll send us a draft.
-* Vision – Several folks have written vision statements. **Ben** will put the statements together and send them out so that we can all look at and edit as we like. We will all contribute and edit before next week so that we can simply approve something rather than heavily discuss at that time.
-
