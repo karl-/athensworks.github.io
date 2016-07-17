@@ -28,6 +28,7 @@ email:
 
 gems:
   - jekyll-redirect-from
+  - jekyll-paginate
 
 exclude:
   - Gemfile

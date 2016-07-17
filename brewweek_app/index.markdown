@@ -32,6 +32,23 @@ All the code that went into the app is open source and can be found at:
 * <https://github.com/AthensWorks/OBWapp-API>
 * <https://github.com/AthensWorks/OBWapp-Admin-UI>
 
-*Unfortunately, we don't have an Android or Web application this year, but we hope to in the future. If you see any of the developers or designers at Brew Week, buy them a beer and maybe next year they'll add more features and platforms.*
+**Special Thanks To**
+
+* Michael Blohm
+* Ricky Chilcott
+* Ben Lachman
+* Joe Bell
+* John Buswell
+* Kristen Masada
+* Matt Bargar
+* Matt Forsyth
+* Steve Porter
+* Taylor Olmstead
+* Tim Grannen
+* Zach Perrault
+* [Nice Mohwawk](http://nicemohawk.com/) for providing developer accounts and design/development support
+* [Rakefire](https://www.rakefire.io/) for providing web hosting and web application development support
+
+*Unfortunately, we don't have an Android or Web application this year, but we hope to in the future. You make also view the [Brew Week Website](https://ohiobrewweek.com/brews/) for some brewer information. If you see any of the developers or designers at Brew Week, buy them a beer and maybe next year they'll add more features and platforms.*
 
 Please let us know what you think about the app by emailing [info@athensworks.com](mailto:info@athensworks.com).
