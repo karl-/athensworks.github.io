@@ -10,7 +10,7 @@ redirect_from:
   - /brewweek/
 ---
 
-Athensworks, in partnership with [Ohio Brew Week](http://OhioBrewWeek.com), built an app for Ohio Brew Week 2015. All work was done by a group of volunteers and members of Athensworks in the context of a monthly event we call Hack Night. If you’re interested in Hack Night, checkout our [Facebook Page](https://www.facebook.com/Athensworks). If you’re interested in a membership, we’d love to have you join Athensworks, just give us a shout!
+Athensworks, in partnership with [Ohio Brew Week](http://OhioBrewWeek.com), built an app for Ohio Brew Week 2015 and recently updated it for OBW 2016. All work was done by a group of volunteers and members of Athensworks in the context of a monthly event we call Hack Night. If you’re interested in Hack Night, checkout our [Facebook Page](https://www.facebook.com/Athensworks). If you’re interested in a membership, we’d love to have you join Athensworks, just give us a shout!
 
 <center>
   <p>
@@ -46,7 +46,7 @@ All the code that went into the app is open source and can be found at:
 * Taylor Olmstead
 * Tim Grannen
 * Zach Perrault
-* [Nice Mohwawk](http://nicemohawk.com/) for providing developer accounts and design/development support
+* [Nice Mohawk](http://nicemohawk.com/) for providing developer accounts and design/development support
 * [Rakefire](https://www.rakefire.io/) for providing web hosting and web application development support
 
 *Unfortunately, we don't have an Android or Web application this year, but we hope to in the future. You may also view the [Brew Week Website](https://ohiobrewweek.com/brews/) for some brewer information. If you see any of the developers or designers at Brew Week, buy them a beer and maybe next year they'll add more features and platforms.*
