@@ -7,6 +7,10 @@ sharing: true
 footer: true
 ---
 
+###*Hi, this is Athensworks, a local coworking community. At our uptown location we have office facilities, great coffee, fun events, and a unique group of members.*
+
+###*We aim to support our members by providing a creative and productive environment for work, discussion, collaboration, and even mentoring to occur. Our goal is to grow our individual members, the coworking community, and local business environment.*
+
 What is coworking?
 ------------------
 Coworking offers a calm, productive environment to those who would otherwise work at home or in another space not always conducive to their work.
