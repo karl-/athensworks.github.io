@@ -11,9 +11,9 @@ Free Friday
 -----------------
 *Next Free Friday is September 9th, 2016*
 
-Come to Athensworks on Friday and experience co-working with some of the friendliest, artistic, and tech savvy people in Athens. You'll get a large desk and chair, access to high-speed wi-fi, air conditioning, a whiteboard, a printer, a refrigerator, and free snacks and beverages. This is a chance to break the monotony of your usual work space and enjoy a refreshing change of environment to spark your creativity and boost your productivity.
+Come to Athensworks for Free Friday and experience coworking with some of the friendliest, creative, and tech savvy people in Athens. We'll make sure you get a desk space, access to wi-fi plus coffee or tea and some local treats. We also have normal office amenities like a whiteboard, printer, conference room, kitchenette and a phonebooth for taking calls. This is a chance to break the monotony of your usual work space and enjoy a refreshing change of environment to spark your creativity and boost your productivity.
 
-You can opt to work in our large, quite work space, collaborate in our cozy social work space with light background music, or use the conference room for private meetings. So grab your laptop, invite a friend to come with you, and see what co-working is all about!
+So grab your laptop, invite a friend to come with you, and see what coworking is all about!
 
 Ohio Brew Week
 -----------------
