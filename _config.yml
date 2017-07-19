@@ -142,3 +142,5 @@ oscailte:
                 show_profile_link:
                 widget_id:
         youtube:
+
+theme: jekyll-theme-slate
